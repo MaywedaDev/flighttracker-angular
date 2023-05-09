@@ -1,0 +1,18 @@
+.ctrls{
+    background-color: #05203c;
+}
+
+.select{
+    width: 120px !important;
+}
+
+table{ 
+    width: 100%;
+}
+
+.table-cont{
+    max-height: 80vh;
+    overflow-y: scroll;
+    max-width: 720px;
+    width: 100%;
+}

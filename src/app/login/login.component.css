@@ -1,0 +1,25 @@
+.login-card{
+    max-width: 720px;
+    min-width: 320px;
+}
+
+.fcard{
+    max-width: 360px;
+    width: 100%;
+}
+
+.fcard button{
+    background-color: var(--primary) !important;
+}
+
+.fcard button:hover, .card button:focus{
+    background-color: var(--bs-blue);
+}
+
+p{
+    color: var(--bs-gray-700)
+}
+
+img{
+    object-fit: cover;
+}
